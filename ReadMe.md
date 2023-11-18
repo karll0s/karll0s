@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante<br>⚡Estou começando no ramo da programação <br>🌱 Por enquanto estou em HTML e CSS
+🔭 Sou estudante<br>⚡Estou começando no ramo da programação <br>🌱 Por enquanto estou em HTML, CSS e JavaScript
 
 
 ## 🌐 Socials:
