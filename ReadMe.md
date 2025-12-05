@@ -1,15 +1,64 @@
-# 💫 About Me:
-🔭 Sou estudante de SI<br>⚡ Estou começando na programação
+<h1 align="center">👋 Olá, eu sou Karllos Gabriel</h1>
+<p align="center">
+  <em>Futuro DevOps Engineer | Apaixonado por Linux, automação e infraestrutura</em>
+</p>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karlloz_z) 
+## 🌱 Atualmente estudando
+- DevOps completo: Git, Docker, Kubernetes, CI/CD, Terraform  
+- Linux avançado: terminal, scripts, administração  
+- Cloud: AWS / Azure (conceitos iniciais)  
+- Automação e infraestrutura como código (IaC)  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karll0s&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karll0s&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karll0s&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Minhas Skills
+| Skill |
+|-------|
+| Git & GitHub | 
+| Linux | 
+| Docker | 
+| Kubernetes | 
+| CI/CD | 
+| Terraform | 
+| Cloud (AWS/Azure) | 
+
+---
+
+## 📂 Projetos e Estudos
+- **[devops-journey](https://github.com/karll0s/devops-journey)** – Diário de estudos, laboratórios, exercícios e projetos DevOps  
+- Projetos de pipeline CI/CD e automações  
+- Laboratórios Docker & Kubernetes  
+
+---
+
+## 🔗 Contatos
+- ✉ Email: karllos@example.com  
+- 🔗 LinkedIn: [Karllos Gabriel](https://www.linkedin.com/in/karllos-gabriel)  
+- 🐙 GitHub: [karll0s](https://github.com/karll0s)  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=karll0s&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karll0s&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Badges DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <em>“DevOps não é sobre ferramentas, é sobre cultura, automação e eficiência.”</em>
+</p>
