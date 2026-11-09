@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá,Karllos aqui</h1>
+<h1 align="center">Olá, Karllos aqui</h1>
 
 <p align="center">
   Linux · Open Source · Technology
@@ -16,8 +16,6 @@ Gosto de explorar o universo open source, conhecer novos projetos e entender com
 Tenho um interesse especial pelo ecossistema Linux: distribuições, ambientes gráficos, personalização e ferramentas. Gosto de explorar projetos como Arch Linux, NixOS e Universal Blue, além de acompanhar iniciativas relacionadas a sistemas imutáveis, atomicidade, reprodutibilidade e automação.
 
 Também me interesso por desenvolvimento de software, programação, inteligência artificial, privacidade digital, segurança, hardware e novas tecnologias.
-
-Fora desse universo, gosto de acompanhar ciência, exploração espacial e descobertas.
 
 ### Projeto atual
 
