@@ -17,5 +17,3 @@
 - ✉ Email: karllosfac@gmail.com  
 - 🔗 LinkedIn: [Karllos Gabriel](https://www.linkedin.com/in/karllos-gabriel-martins-bbb246300/)  
 - 🐙 GitHub: [karll0s](https://github.com/karll0s)  
-
----
