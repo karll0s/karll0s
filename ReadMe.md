@@ -1,19 +1,36 @@
-<h1 align="center">👋 Olá, eu sou Karllos Gabriel</h1>
+
+<h1 align="center">Olá,Karllos aqui</h1>
+
 <p align="center">
-  <em>Futuro DevOps Engineer | Apaixonado por Linux, automação, infraestrutura e programação</em>
+  Linux · Open Source · Technology
 </p>
 
+<p align="center">
+  Entusiasta de tecnologia, Linux e software livre.
+</p>
+
+Gosto de explorar o universo open source, conhecer novos projetos e entender como as tecnologias funcionam. Tenho uma curiosidade especial por sistemas, ferramentas e pela liberdade de experimentar, modificar e construir minhas próprias soluções.
+
+### Interesses
+
+Tenho um interesse especial pelo ecossistema Linux: distribuições, ambientes gráficos, personalização e ferramentas. Gosto de explorar projetos como Arch Linux, NixOS e Universal Blue, além de acompanhar iniciativas relacionadas a sistemas imutáveis, atomicidade, reprodutibilidade e automação.
+
+Também me interesso por desenvolvimento de software, programação, inteligência artificial, privacidade digital, segurança, hardware e novas tecnologias.
+
+Fora desse universo, gosto de acompanhar ciência, exploração espacial e descobertas.
+
+### Projeto atual
+
+**KarllOS** (eu sei, nome ruim)
+
+Um projeto pessoal inspirado no ecossistema Universal Blue e Aurora, dedicado à exploração da construção de um sistema Linux próprio, com foco em modularidade, reprodutibilidade e facilidade de manutenção.
+
+### Explorando
+
+`Linux` · `Open Source` · `BlueBuild` · `Wayland` · `Containers` · `AI` · `Technology`
+
 ---
 
-## 🌱 Atualmente estudando
-- DevOps completo: Git, Docker, Kubernetes, CI/CD, Terraform  
-- Linux avançado: terminal, scripts, administração  
-- Cloud: AWS / Azure (conceitos iniciais)  
-- Automação e infraestrutura como código (IaC)  
-
----
-
-## 🔗 Contatos
-- ✉ Email: karllosfac@gmail.com  
-- 🔗 LinkedIn: [Karllos Gabriel](https://www.linkedin.com/in/karllos-gabriel-martins-bbb246300/)  
-- 🐙 GitHub: [karll0s](https://github.com/karll0s)  
+<p align="center">
+  <i>Explorar, aprender e construir.</i>
+</p>
