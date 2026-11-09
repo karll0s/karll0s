@@ -13,24 +13,6 @@
 
 ---
 
-## 💻 Minhas Skills
-- Git & GitHub  
-- Linux  
-- Docker & Kubernetes  
-- CI/CD  
-- Terraform  
-- Cloud (AWS/Azure)  
-- Programação: Java, C, Python  
-
----
-
-## 📂 Projetos e Estudos
-- **[devops-journey](https://github.com/karll0s/devops-journey)** – Diário de estudos, laboratórios e projetos DevOps  
-- Laboratórios Docker & Kubernetes  
-- Projetos de pipeline CI/CD e automações  
-
----
-
 ## 🔗 Contatos
 - ✉ Email: karllosfac@gmail.com  
 - 🔗 LinkedIn: [Karllos Gabriel](https://www.linkedin.com/in/karllos-gabriel-martins-bbb246300/)  
