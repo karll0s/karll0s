@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, Karllos aqui.</h1>
+<h1 align="center">Olá, Karllos aqui</h1>
 
 <p align="center">
   Linux · Open Source · Technology
