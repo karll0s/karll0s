@@ -26,9 +26,3 @@ Um projeto pessoal inspirado no ecossistema Universal Blue e Aurora, dedicado à
 ### Explorando
 
 `Linux` · `Open Source` · `BlueBuild` · `Wayland` · `Containers` · `AI` · `Technology`
-
----
-
-<p align="center">
-  <i>Explorar, aprender e construir.</i>
-</p>
