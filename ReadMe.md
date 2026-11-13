@@ -25,4 +25,4 @@ Um projeto pessoal inspirado no ecossistema Universal Blue e Aurora, dedicado à
 
 ### Explorando
 
-`Linux` · `Open Source` · `BlueBuild` · `Wayland` · `Containers` · `AI` · `Technology`
+`Linux` · `Open Source` · `BlueBuild` · `Containers` · `AI` · `Technology`
