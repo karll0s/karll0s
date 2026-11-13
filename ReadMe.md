@@ -19,9 +19,25 @@ Também me interesso por desenvolvimento de software, programação, inteligênc
 
 ### Projeto atual
 
-**KarllOS** (eu sei, nome ruim)
+#### 🐧 arch-system
 
-Um projeto pessoal inspirado no ecossistema Universal Blue e Aurora, dedicado à exploração da construção de um sistema Linux próprio, com foco em modularidade, reprodutibilidade e facilidade de manutenção.
+> Uma abordagem declarativa e reproduzível para configurar, instalar e
+> recuperar um sistema Arch Linux.
+
+A ideia é aproximar a experiência do Arch de conceitos como:
+
+- ⚙️ Configuração declarativa
+- 🔁 Reprodutibilidade
+- 📦 Gerenciamento organizado de pacotes
+- 💾 Btrfs e snapshots
+- 🥾 Recuperação do sistema
+- 🖥️ KDE Plasma + Wayland
+- 🔐 Boot e Secure Boot
+- 🧩 Configuração modular
+- 📚 Documentação e scripts de instalação
+
+O projeto também serve como um laboratório para estudar diferentes
+abordagens de sistemas Linux mais reproduzíveis e, futuramente, imutáveis.
 
 ### Explorando
 
